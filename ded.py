@@ -18,7 +18,7 @@ print(page.title)
 ele = page.ele('@placeholder=请输入您的学员账号')
 ele.input("15615198376")
 # 定位到密码文本框并输入密码
-page.ele('@placeholder=请输入您的学员密码').input("123456")
+page.ele('@placeholder=请输入您的学员密码').input("11111")
 # 点击登录按钮
 page.ele('tag:button').click()
 
