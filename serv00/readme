@@ -5,3 +5,6 @@ import ddddocr
 import pynamesgenerator
 
 应该安装这几个模块就行
+{"__captcha_key": "45eea0ba27ddccd04f8af5298c1dcbb23e398137", "__captcha_image_src": "/captcha/image/45eea0ba27ddccd04f8af5298c1dcbb23e398137/"}
+
+出现这种报文就是成功了，我是闲着盯着控制台看的，自己挂机跑可以加判断
