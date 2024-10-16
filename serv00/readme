@@ -1,1 +1,7 @@
 跑了一下午幸亏出了一个不然吐血。脚本仅供学习，自我优化
+import requests
+from bs4 import BeautifulSoup
+import ddddocr
+import pynamesgenerator
+
+应该安装这几个模块就行
