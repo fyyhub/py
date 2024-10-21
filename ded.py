@@ -16,7 +16,7 @@ page = ChromiumPage()
 page.get('https://s.zaixiankaoshi.com/student/114776')
 print(page.title)
 ele = page.ele('@placeholder=请输入您的学员账号')
-ele.input("15615198376")
+ele.input("")
 # 定位到密码文本框并输入密码
 page.ele('@placeholder=请输入您的学员密码').input("11111")
 # 点击登录按钮
