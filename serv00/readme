@@ -8,3 +8,6 @@ import pynamesgenerator
 {"__captcha_key": "45eea0ba27ddccd04f8af5298c1dcbb23e398137", "__captcha_image_src": "/captcha/image/45eea0ba27ddccd04f8af5298c1dcbb23e398137/"}
 
 出现这种报文就是成功了，我是闲着盯着控制台看的，自己挂机跑可以加判断
+
+
+sELE2.py 这个是新的脚本，里面有个获取邮箱方法但是好像现在临时邮箱无法处理，可以自己写死，或者另辟蹊径
